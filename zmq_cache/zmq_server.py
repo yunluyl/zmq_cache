@@ -1,5 +1,5 @@
 import zmq
-from zmq_message import Message
+from zmq_cache.zmq_message import Message
 
 
 class Server:

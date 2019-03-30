@@ -1,7 +1,7 @@
 import json
 from collections import namedtuple
 
-import zmq_message_types as mt
+from zmq_cache import zmq_message_types as mt
 
 
 class Message:

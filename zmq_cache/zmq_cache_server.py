@@ -1,6 +1,6 @@
-from zmq_server import Server
-from zmq_message import Message
-import zmq_message_types as mt
+from zmq_cache.zmq_server import Server
+from zmq_cache.zmq_message import Message
+from zmq_cache import zmq_message_types as mt
 
 
 class CacheServer:
