@@ -1,0 +1,7 @@
+*.pyc
+*.iml
+*.orig
+.idea/
+*.DS_Store
+test.py
+*.log
